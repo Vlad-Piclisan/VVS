@@ -1,7 +1,8 @@
-.pizza {
-    background-image: url("pizza.png");
+.maintenance {
+    background-image: url("maintenance.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
 }
 
 body,

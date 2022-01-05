@@ -1,4 +1,10 @@
-body {
- background-image: url("bread.png");
+.bread {
+    background-image: url("bread.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+body,
+html {
+    height: 100%;
 }
